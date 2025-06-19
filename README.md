@@ -25,7 +25,7 @@ gcc main.c -lsqlite3 -o main
 ## Screenshots
 
 Menu:
-![Menu](screenshots/menu.png)
+![Menu](screenshots/Menu.png)
 
 Sample question:
 ![Quiz - question](screenshots/Question.png)
